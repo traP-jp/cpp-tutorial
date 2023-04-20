@@ -1,0 +1,6 @@
+[book]
+authors = ["H1rono", "n-kegra"]
+language = "ja"
+multilingual = false
+src = "docs"
+title = "C++チュートリアル"

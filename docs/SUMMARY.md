@@ -10,4 +10,4 @@
 - [型とリテラル](./type-and-literal.md)
 - [変数](./variable.md)
 - [演算子](./operator.md)
-- [フロー制御](./control-flow.md)
+- [制御文](./control-statement.md)

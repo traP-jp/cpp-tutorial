@@ -1,2 +1,3 @@
 # cpp-tutorial
-C++チュートリアル(WIP)
+
+Practical Modern C++(WIP)

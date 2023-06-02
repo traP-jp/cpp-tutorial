@@ -1,6 +1,6 @@
 # Summary
 
-[C++チュートリアル](./README.md)
+[Practical Modern C++](./README.md)
 
 - [C++とは何か](./what-is-cpp.md)
 - [環境構築](./build-env.md)

@@ -10,7 +10,7 @@ Cと同様にC++においては文字列はダブルクォーテーション`"`�
 C++の文字型はCと同様に引き続き`char`型です. C++の文字列の型で最もよく見かけるのは`std::string`だと思います. `std::string`は`std::basic_string`クラスへのエイリアスの一つでASCIIやUTF-8の文字列やバイト配列での使用を想定しています. 他にもエイリアスは存在し例えば比較的よくみかける`std::wstring`はUTF-16の文字列として使用します[^basic_string].
 以後`std::string`を使って説明を行いますが, 他の`std::basic_string`へのエイリアスにも同様のことがいえます. `std::string`はクラスであるので多様なメンバ関数を持っています. これらのメンバ関数は動的配列の`std::vector`のものと似た機能を提供します. いかにそのいくつかを示します.
 
-```cpp:string_example.cpp
+```cpp filename="string_example.cpp"
 #include <string>
 
 int main()
@@ -57,6 +57,3 @@ ToDo: CRLF, std::format, 制御文字詳しく
 [^literal]: [C++日本語リファレンス-sリテラル](https://cpprefjp.github.io/reference/string/basic_string/op_s.html)
 [^basic_string]: [C++日本語リファレンス-basic_string](https://cpprefjp.github.io/reference/string/basic_string.html)
 [^string]: [C++日本語リファレンス-string](https://cpprefjp.github.io/reference/string.html)
-
-
-

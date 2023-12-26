@@ -36,3 +36,11 @@ TODO
 - VSCodeもaptで入れる
 
 TODO
+
+## 動作確認
+
+TODO: Hello, worldを書いてコンパイル、実行
+
+## 参考文献
+
+TODO: なんかあったら
